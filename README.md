@@ -1,4 +1,8 @@
 # llama2-Chinese-chat   
+更新记录:
+- 2023-07-19 第一个中午llama2 chat版本发布，实现流畅中文对话 
+- 2023-07-23 完成第2个epoch训练放出，测试有更好的对话体验 
+
 llama2 Chinese chat - 本项目是一个教程记录整理的repo，旨在提供给新手的参照价值和开箱即用的中文LLaMa2对话体验。包含训练过程记录，各种主要量化方式，部署后端api的推荐方案，以及在一个具体的前端网页上实现开箱即用的流畅对话体验。  
 也是当前第一个实际可用的中文13b llama2对话（已实现且放出实际文件）。
 - 中文llama2对话模型下载（仅差分部分）：https://huggingface.co/shareAI/llama2-13b-Chinese-chat  
