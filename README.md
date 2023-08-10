@@ -11,6 +11,7 @@ llama2 Chinese chat - 本项目是一个教程记录整理的repo，旨在提供
 - 训练用数据集：https://huggingface.co/datasets/shareAI/ShareGPT-Chinese-English-90k
 - llama2训练交流QQ群：443064756
 
+更多实测问答记录：https://gist.github.com/goog/a3276016bd17eb401d6cc74d1f96d2e0  感谢@goog 提供
 <img width="874" alt="image" src="https://github.com/CrazyBoyM/llama2-Chinese-chat/assets/35400185/634d8bba-d013-44bb-91c9-1623e3d4040a">
 <img width="808" alt="image" src="https://github.com/CrazyBoyM/llama2-Chinese-chat/assets/35400185/7bf4d236-9da6-4033-b040-531abb09c101">
 
